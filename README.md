@@ -19,5 +19,8 @@ The pipeline consists of the following steps:
 
 6. **Extend the pipeline**: Optionally, add more tasks and features to the pipeline, such as data analysis, visualization, or notifications, to further enhance its functionality and provide additional insights.
 
+# Architecture:
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/vekr1518/Youtube-Data-Pipeline-Airflow/blob/main/Architecutre_youtube_pipeline.png)
+
 # Conclusion:
 This project provides an efficient and automated way to analyze and store information about the most popular YouTube videos in a region. It can be easily extended to include additional features such as data analysis, visualization, and notification services to provide more insights and functionality.
